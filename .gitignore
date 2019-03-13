@@ -10,6 +10,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 target
+uploads
 
 # Runtime data
 pids
